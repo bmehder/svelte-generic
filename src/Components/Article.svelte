@@ -41,7 +41,7 @@
     </p>
     <div>
       <ul>
-        <li>Lorem, ipsum dolor.</li>
+        <li>Lorem, ipsum dolor lipsum.</li>
         <li>Lorem ipsum dolor sit amet consectetur.</li>
         <li>Lorem ipsum dolor sit amet.</li>
         <li>Lorem, ipsum dolor.</li>
