@@ -7,6 +7,7 @@
   import Article from "./Components/Article.svelte";
   import Fetcher from "./Components/Fetcher.svelte";
   import Posts from "./Components/Posts.svelte";
+  import Audio from "./Components/Audio.svelte";
   import Form from "./Components/Form.svelte";
 </script>
 
@@ -91,6 +92,8 @@
   <Fetcher />
 
   <Posts />
+
+  <Audio />
 
   <Form />
 
