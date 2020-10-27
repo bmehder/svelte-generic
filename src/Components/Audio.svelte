@@ -7,7 +7,8 @@
 <style>
   section {
     min-height: 100vh;
-    background: linear-gradient(45deg, #e91e63, #fffde7);
+    /* background: linear-gradient(45deg, #e91e63, #fffde7); */
+    background: linear-gradient(45deg, darkorange, #fffde7);
     display: flex;
     justify-content: center;
     align-items: center;
